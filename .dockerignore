@@ -1,0 +1,8 @@
+node_modules
+data
+bin
+*.log
+*.bat
+*.ps1
+.git
+.tmp*
