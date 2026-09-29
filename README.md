@@ -2,6 +2,10 @@
 
 极简工具站：粘贴抖音分享口令或作品链接，解析并下载无水印视频与封面。
 
+**源码仓库**：<https://github.com/6000-ai/douyin-downloader>
+
+**一键部署到 Render**：<https://render.com/deploy?repo=https://github.com/6000-ai/douyin-downloader>
+
 > **合规声明**：本工具仅供下载自有或已获授权的内容、以及平台允许的合理个人使用场景。请勿用于二次传播或商业用途；因使用产生的版权责任由用户自行承担。
 
 ## 快速开始
